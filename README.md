@@ -1,4 +1,4 @@
-![logo](https://github.com/MHS-4ever/MHS-4ever/blob/main/hub%20(5).png)
+![logo](https://github.com/MHS-4ever/MHS-4ever/blob/main/Banner.png)
 
 <br>
 <h1 align="center">
