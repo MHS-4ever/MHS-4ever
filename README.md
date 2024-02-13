@@ -6,7 +6,7 @@
 </h1>
 <br/>
 
-<h3 align="center">I am a passionate and enthusiastic BS computer science student. I am deeply fascinated by the transformative potential of blockchain technology and aspire to become a skilled blockchain developer.</h3>
+<h3 align="center">I am a passionate and enthusiastic BS computer science student. I am deeply fascinated by the transformative potential of Flutter & Dart and aspire to become a skilled App developer.</h3>
 
 <br/> 
 <hr/>
