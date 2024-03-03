@@ -21,7 +21,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning Web Development **HTML, CSS, JavaScript, Node.js, React**
+ 🌱 I’m currently learning App Development **Flutter, Dart, Android Apps, IOS Apps**
 
  📫 How to reach me **m.hasnain1015@gmail.com**
 
