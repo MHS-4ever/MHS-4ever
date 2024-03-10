@@ -6,7 +6,7 @@
 </h1>
 <br/>
 
-<h3 align="center">I am a passionate and enthusiastic BS computer science student. I am deeply fascinated by the transformative potential of Flutter & Dart and aspire to become a skilled App developer.</h3>
+<h3 align="center">I am a passionate and enthusiastic BS computer science student. I am deeply fascinated by the transformative potential of Unity and aspire to become a skilled Game developer.</h3>
 
 <br/> 
 <hr/>
@@ -21,7 +21,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning App Development **Flutter, Dart, Android Apps, IOS Apps**
+ 🌱 I’m currently learning Game Development **Unity, C#**
 
  📫 How to reach me **m.hasnain1015@gmail.com**
 
@@ -44,8 +44,8 @@
 <br/>
 
 <div align="center">
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> 
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
+    <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="flutter" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C-Sharp)%20is,apps%2C%20games%20and%20much%20more." target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="dart" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
