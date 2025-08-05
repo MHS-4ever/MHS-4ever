@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I%27m+MUHAMMAD+HASNAIN!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MUHAMMAD+HASNAIN!;" />
 </h1>
 
 <p align="center">
@@ -18,73 +18,75 @@
   </a>
 </p>
 
-<br/>
+---
 
 ## 🚀 About Me
 
-- 🔭 Building **DreamScape** (Unity VR puzzle) and **QuantumRunner** (Unreal sci-fi runner).
-- 🌱 Exploring **Shader Graph**, **Procedural Generation**, **Multiplayer Security**.
-- 👯 Collaborating on open-source **game engines** and **edutainment** titles.
-- 💬 Ask me about **C#**, **C++**, **Blueprints**, **3D Math**, and **Penetration Testing**.
+- 🎮 Unity Game Developer with 2+ years of experience building **educational**, **Web3**, and **multiplayer** games.
+- 🧠 Currently working with **Knoduct Coaching & Learning** (EFG Games) on interactive browser-based learning games.
+- 💼 Built the NFT-based **Football Manager** simulation game with blockchain, P2E mechanics, and wallet integration.
+- 🌱 Learning **Shader Graph**, **Unreal Engine**, and **Multiplayer Syncing** with Photon/Mirror.
 - 📫 **Email:** [m.hasnain1015@gmail.com](mailto:m.hasnain1015@gmail.com)
-- ⚡ **Fun Fact:** More stars in the universe than grains of sand on all the world’s beaches.
+- ⚡ **Fun Fact:** I built a Subway Surfer–style advergame for a meme coin project… yes, really.
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <code>Unity</code> &middot; <code>Unreal Engine</code> &middot; <code>C#</code> &middot; <code>C++</code> &middot; <code>Python</code> &middot; <code>Blender</code> &middot; <code>Git</code> &middot; <code>Docker</code>
+  <code>Unity</code> &middot; <code>C#</code> &middot; <code>WebGL</code> &middot; <code>Photon</code> &middot; <code>Mirror</code> &middot;
+  <code>Unreal Engine (Beginner)</code> &middot; <code>Python</code> &middot; <code>Git</code> &middot; <code>Figma</code> &middot; <code>Blender (Basic)</code> &middot; <code>Web3.js</code> &middot; <code>MetaMask</code>
 </p>
 
 <p align="center">
-  <a href="https://unity.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="36"/></a>
-  <a href="https://www.unrealengine.com/"><img src="https://img.icons8.com/?size=100&id=38240&format=png&color=000000" alt="Unreal" width="36"/></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="36"/></a>
-  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36"/></a>
-  <a href="https://www.blender.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="36"/></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="36"/>
+  <img src="https://img.icons8.com/?size=100&id=38240&format=png&color=000000" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36"/>
 </p>
 
-<br/>
+---
 
 ## 🎮 Featured Projects
 
-| 🚀 Project        | 📝 Description                                         | 🔗 Link                                                      |
-|:-----------------:|:-------------------------------------------------------:|:------------------------------------------------------------:|
-| **DreamScape**    | Unity VR puzzle adventure with custom shaders & physics | [GitHub](https://github.com/MHS-4ever/DreamScape)            |
-| **QuantumRunner** | Unreal Engine sci-fi infinite runner                    | [GitHub](https://github.com/MHS-4ever/QuantumRunner)         |
-| **SecSim**        | Python-based network-security simulation game           | [GitHub](https://github.com/MHS-4ever/SecSim)                |
+| 🚀 Project                  | 📝 Description                                             | 🔗 Link                                                      |
+|:---------------------------|:----------------------------------------------------------|:------------------------------------------------------------:   |
+| **NFT Football Manager**   | WebGL football manager game with NFT trading & P2E logic   | [Demo](https://footballmanager-beta.vercel.app/)               |
+| **EFG Educational Games**  | Browser-based learning games built in Unity for EFG Games  | [Website](https://www.efggames.com/)                           |
+| **Subway Surfer Meme Coin**| Meme-themed 3D runner game environment for crypto client   | [Demo](https://trainway.netlify.app/)                          |
+| **Defect Detection Viz**   | Unity-based visualization of ML model detecting building flaws | — *(Private Delivery)*                                     |
+| **Up the Hill**            | Physics-based 2D driving game inspired by Hill Climb Racing| [Demo](https://upthehill.netlify.app/)                         |
+| **Bubble Pop**             | Casual Unity bubble shooter with tap controls and scoring  | [Demo](https://portfolio-bubblepop.netlify.app/)               |
 
-<br/>
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHS-4ever&show_icons=true&theme=tokyonight&hide_title=true&count_private=false" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHS-4ever&layout=compact&theme=tokyonight&langs_count=6" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MHS-4ever&show_icons=true&theme=tokyonight&hide_title=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHS-4ever&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
-<br/>
+---
 
-## 📅 Github Contributions
+## 📅 GitHub Contributions
 
 <p align="center">
   <img src="https://ghchart.rshah.org/216e39/MHS-4ever" alt="GitHub Contributions Chart" />
 </p>
 
-<br/>
+---
 
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/m-hasnain-s" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://stackoverflow.com/users/22901398/muhammad-hasnain" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-Profile-orange?style=flat-square&logo=stackoverflow" alt="StackOverflow"/></a>
-  <a href="mailto:m.hasnain1015@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-m.hasnain1015%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"/></a>
+  <a href="https://linkedin.com/in/m-hasnain-s" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/22901398/muhammad-hasnain" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-Profile-orange?style=flat-square&logo=stackoverflow" /></a>
+  <a href="mailto:m.hasnain1015@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-m.hasnain1015%40gmail.com-red?style=flat-square&logo=gmail" /></a>
 </p>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I%27m+always+down+to+collab+:)" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+build+something+together!;" />
 </h3>
