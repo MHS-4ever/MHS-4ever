@@ -82,7 +82,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/m-hasnain-s" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-hasnain-siddique/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://stackoverflow.com/users/22901398/muhammad-hasnain" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-Profile-orange?style=flat-square&logo=stackoverflow" /></a>
   <a href="mailto:m.hasnain1015@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-m.hasnain1015%40gmail.com-red?style=flat-square&logo=gmail" /></a>
 </p>
