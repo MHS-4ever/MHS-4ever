@@ -259,9 +259,6 @@ I'm a **Unity Game Developer** with 2+ years of experience building immersive di
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHS-4ever&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHS-4ever&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
-</div>
 
 ---
 
