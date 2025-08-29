@@ -260,11 +260,12 @@ I'm a **Unity Game Developer** with 2+ years of experience building immersive di
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MHS-4ever&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MHS-4ever&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center" style="background:#1a1b27; padding:8px; border-radius:10px;">
-  <img src="https://ghchart.rshah.org/216e39/MHS-4ever" alt="GitHub Contributions Chart" />
+  <!--<img src="https://ghchart.rshah.org/216e39/MHS-4ever" alt="GitHub Contributions Chart" /> -->
+  <img src="https://raw.githubusercontent.com/MHS-4ever/MHS-4ever/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
