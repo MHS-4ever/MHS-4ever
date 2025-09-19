@@ -302,6 +302,7 @@ I'm a **Unity Game Developer** with 2+ years of experience building immersive di
 - 🤖 **AI/ML Integration** - Computer vision, procedural generation
 - 👥 **Open Source Contributions** - Game development tools and frameworks
 
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
