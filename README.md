@@ -253,12 +253,12 @@ I'm a **Unity Game Developer** with 2+ years of experience building immersive di
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MHS-4ever&bg_color=1a1b27&color=628fdb&line=d65db1&point=ffeb95&area=true&hide_border=true" width="100%" />
   
 </div>
-
+<!--
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MHS-4ever&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHS-4ever&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10" />
 </div>
-
+-->
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=MHS-4ever&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </div>
