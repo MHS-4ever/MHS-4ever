@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:00ff95&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20Through%20Code&descAlignY=60&descSize=18"/>
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MUHAMMAD+HASNAIN!;Unity+Game+Developer+🎮;Building+Interactive+Experiences+✨" />
 </p>
