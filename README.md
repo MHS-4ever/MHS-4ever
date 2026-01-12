@@ -62,7 +62,7 @@ I'm a **Junior Cloud & DevOps Engineer** passionate about building scalable, rel
 
 <div align="center">
   
-  <a href="https://www.credly.com/badges" target="_blank">
+  <a href="blob:https://skillbuilder.aws/7f4eb2d3-fea0-4c2b-a581-999dc5a9c4c0" target="_blank">
     <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
   </a>
   
