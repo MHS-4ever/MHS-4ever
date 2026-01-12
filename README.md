@@ -6,6 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MUHAMMAD+HASNAIN!;Cloud+and+DevOps+Engineer+☁️;Building+Scalable+Solutions+🚀" />
 </p>
 
+<p align="center">
+🚀 <b>Junior Cloud & DevOps Engineer</b> | AWS • Docker • Terraform • CI/CD  
+<br/>
+💡 I build scalable, automated, production-ready cloud infrastructure
+</p>
+
+
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=MHS-4ever&color=6e00ff&style=flat-square&label=Profile+Views)
@@ -49,6 +56,21 @@ I'm a **Junior Cloud & DevOps Engineer** passionate about building scalable, rel
 
 <br clear="right"/>
 
+---
+
+### 🏆 **Certifications**
+
+<div align="center">
+  
+  <a href="https://www.credly.com/badges" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  </a>
+  
+  <p><em>Validated knowledge of AWS Cloud fundamentals and services</em></p>
+  
+</div>
+
+---
 
 ### 🛠️ **Tech Stack & Tools**
 
@@ -171,84 +193,37 @@ I'm a **Junior Cloud & DevOps Engineer** passionate about building scalable, rel
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" height="80">
-      <h3>🌐 Static Website (S3 + CloudFront)</h3>
-      <p><em>High-performance static website hosted on S3 with CloudFront CDN for global content delivery and low latency</em></p>
+      <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80" height="80">
+      <h3>⚡ Serverless API (Lambda + API Gateway)</h3>
+      <p><em>Serverless backend with API Gateway, Lambda functions, and DynamoDB database</em></p>
       <p>
-        <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" /></a>
-        <a href="https://aws.amazon.com/cloudfront/" target="_blank"><img src="https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazon-cloudfront&logoColor=white" /></a>
-        <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Static_Site-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/api-gateway/" target="_blank"><img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" /></a>
       </p>
       <p>
-        <a href="https://github.com/MHS-4ever/project-01-static-website-s3-cloudfront" target="_blank">
+        <a href="https://github.com/MHS-4ever/project-08-serverless-api" target="_blank">
           <img src="https://img.shields.io/badge/🔗_View_Repository-6e00ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80" height="80">
-      <h3>🖥️ Linux Web Server on EC2</h3>
-      <p><em>Linux server on EC2 running Nginx/Apache with SSH access and custom security groups</em></p>
+      <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="80" height="80">
+      <h3>🏢 Multi-Tier AWS Architecture (PRO)</h3>
+      <p><em>Production-ready architecture with Load Balancer, Web tier, Database tier, and public/private subnets</em></p>
       <p>
-        <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" /></a>
-        <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
-        <a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/architecture/" target="_blank"><img src="https://img.shields.io/badge/AWS_Architecture-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank"><img src="https://img.shields.io/badge/ELB-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/rds/" target="_blank"><img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" /></a>
       </p>
       <p>
-        <a href="https://github.com/MHS-4ever/project-02-ec2-linux-webserver" target="_blank">
+        <a href="https://github.com/MHS-4ever/project-07-multi-tier-aws" target="_blank">
           <img src="https://img.shields.io/badge/🔗_View_Repository-6e00ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/kdQuvu0LtCEjxYgTcS/giphy.gif" width="80" height="80">
-      <h3>🌐 AWS Networking (VPC + Subnets)</h3>
-      <p><em>Custom AWS network with VPC, public & private subnets, routing tables, and Internet Gateway</em></p>
-      <p>
-        <a href="https://aws.amazon.com/vpc/" target="_blank"><img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
-        <a href="https://aws.amazon.com/vpc/" target="_blank"><img src="https://img.shields.io/badge/Networking-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
-        <a href="https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html" target="_blank"><img src="https://img.shields.io/badge/Subnets-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
-      </p>
-      <p>
-        <a href="https://github.com/MHS-4ever/project-03-aws-networking-vpc" target="_blank">
-          <img src="https://img.shields.io/badge/🔗_View_Repository-6e00ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" height="80">
-      <h3>🐳 Dockerized Application</h3>
-      <p><em>Web app (Node.js/Python) packaged as Docker image with container and Docker Compose setup</em></p>
-      <p>
-        <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
-        <a href="https://docs.docker.com/compose/" target="_blank"><img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
-        <a href="https://www.docker.com/resources/what-container/" target="_blank"><img src="https://img.shields.io/badge/Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
-      </p>
-      <p>
-        <a href="https://github.com/MHS-4ever/project-04-dockerized-app" target="_blank">
-          <img src="https://img.shields.io/badge/🔗_View_Repository-6e00ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" height="80">
-      <h3>🔄 CI/CD Pipeline (GitHub Actions → EC2)</h3>
-      <p><em>Automated pipeline that triggers on push, builds Docker image, and deploys to EC2</em></p>
-      <p>
-        <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
-        <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
-        <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" /></a>
-      </p>
-      <p>
-        <a href="https://github.com/MHS-4ever/project-05-cicd-flask-ec2" target="_blank">
-          <img src="https://img.shields.io/badge/🔗_View_Repository-6e00ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
     <td align="center">
       <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="80" height="80">
       <h3>🏗️ Infrastructure as Code (Terraform)</h3>
@@ -264,34 +239,81 @@ I'm a **Junior Cloud & DevOps Engineer** passionate about building scalable, rel
         </a>
       </p>
     </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" height="80">
+      <h3>🔄 CI/CD Pipeline (GitHub Actions → EC2)</h3>
+      <p><em>Automated pipeline that triggers on push, builds Docker image, and deploys to EC2</em></p>
+      <p>
+        <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
+        <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" /></a>
+      </p>
+      <p>
+        <a href="https://github.com/MHS-4ever/project-05-cicd-flask-ec2" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_View_Repository-6e00ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="80" height="80">
-      <h3>🏢 Multi-Tier AWS Architecture (PRO)</h3>
-      <p><em>Production-ready architecture with Load Balancer, Web tier, Database tier, and public/private subnets</em></p>
+      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" height="80">
+      <h3>🐳 Dockerized Application</h3>
+      <p><em>Web app (Node.js/Python) packaged as Docker image with container and Docker Compose setup</em></p>
       <p>
-        <a href="https://aws.amazon.com/architecture/" target="_blank"><img src="https://img.shields.io/badge/AWS_Architecture-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
-        <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank"><img src="https://img.shields.io/badge/ELB-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
-        <a href="https://aws.amazon.com/rds/" target="_blank"><img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" /></a>
+        <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+        <a href="https://docs.docker.com/compose/" target="_blank"><img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+        <a href="https://www.docker.com/resources/what-container/" target="_blank"><img src="https://img.shields.io/badge/Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
       </p>
       <p>
-        <a href="https://github.com/MHS-4ever/project-07-multi-tier-aws" target="_blank">
+        <a href="https://github.com/MHS-4ever/project-04-dockerized-app" target="_blank">
           <img src="https://img.shields.io/badge/🔗_View_Repository-6e00ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80" height="80">
-      <h3>⚡ Serverless API (Lambda + API Gateway)</h3>
-      <p><em>Serverless backend with API Gateway, Lambda functions, and DynamoDB database</em></p>
+      <img src="https://media.giphy.com/media/kdQuvu0LtCEjxYgTcS/giphy.gif" width="80" height="80">
+      <h3>🌐 AWS Networking (VPC + Subnets)</h3>
+      <p><em>Custom AWS network with VPC, public & private subnets, routing tables, and Internet Gateway</em></p>
       <p>
-        <a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" /></a>
-        <a href="https://aws.amazon.com/api-gateway/" target="_blank"><img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white" /></a>
-        <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/vpc/" target="_blank"><img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/vpc/" target="_blank"><img src="https://img.shields.io/badge/Networking-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
+        <a href="https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html" target="_blank"><img src="https://img.shields.io/badge/Subnets-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
       </p>
       <p>
-        <a href="https://github.com/MHS-4ever/project-08-serverless-api" target="_blank">
+        <a href="https://github.com/MHS-4ever/project-03-aws-networking-vpc" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_View_Repository-6e00ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80" height="80">
+      <h3>🖥️ Linux Web Server on EC2</h3>
+      <p><em>Linux server on EC2 running Nginx/Apache with SSH access and custom security groups</em></p>
+      <p>
+        <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" /></a>
+        <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
+        <a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /></a>
+      </p>
+      <p>
+        <a href="https://github.com/MHS-4ever/project-02-ec2-linux-webserver" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_View_Repository-6e00ff?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" height="80">
+      <h3>🌐 Static Website (S3 + CloudFront)</h3>
+      <p><em>High-performance static website hosted on S3 with CloudFront CDN for global content delivery and low latency</em></p>
+      <p>
+        <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/cloudfront/" target="_blank"><img src="https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazon-cloudfront&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Static_Site-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
+      </p>
+      <p>
+        <a href="https://github.com/MHS-4ever/project-01-static-website-s3-cloudfront" target="_blank">
           <img src="https://img.shields.io/badge/🔗_View_Repository-6e00ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
