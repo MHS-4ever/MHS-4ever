@@ -312,12 +312,10 @@ I'm a **Junior Cloud & DevOps Engineer** passionate about building scalable, rel
 </div>
 
 <div align="center">
-  <a href="https://github.com/MHS-4ever" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MHS-4ever&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/MHS-4ever" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHS-4ever&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10&exclude_repo=MHS-4ever" alt="Top Languages" />
-  </a>
+  
+  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MHS-4ever&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MHS-4ever&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+  
 </div>
 
 <div align="center">
