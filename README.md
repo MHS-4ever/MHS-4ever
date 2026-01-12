@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:00ff95&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20Through%20Code&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a8ff,100:0097e6&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20Scalable%20Cloud%20Infrastructure%20%26%20DevOps%20Solutions&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MUHAMMAD+HASNAIN!;Unity+Game+Developer+🎮;Building+Interactive+Experiences+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MUHAMMAD+HASNAIN!;Cloud+%26+DevOps+Engineer+☁️;Automating+Infrastructure+%26+Deployments+🚀" />
 </p>
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=MHS-4ever&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=MHS-4ever&color=00a8ff&style=flat-square&label=Profile+Views)
   [![GitHub followers](https://img.shields.io/github/followers/MHS-4ever?style=social)](https://github.com/MHS-4ever?tab=followers)
   
 </div>
@@ -32,18 +32,17 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 🎮 **About Me**
+### ☁️ **About Me**
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Cloud Infrastructure" width="350" src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif">
 
-I'm a **Unity Game Developer** with 2+ years of experience building immersive digital experiences across multiple platforms and genres.
+I'm a **Junior Cloud & DevOps Engineer** passionate about building scalable, reliable, and automated cloud infrastructure solutions.
 
-- 🎯 **Specializing in**: Educational, Web3, and Multiplayer games
-- 👨‍💻 **Currently**: Solo developer at **Knoduct Coaching & Learning (EFG Games)**
-- 🧠 **Learning**: Shader Graph, Unreal Engine, and Photon/Mirror multiplayer
-- 🪙 **Recent Work**: Meme-themed Subway Surfer advergame for crypto project
-- 💼 **Proud of**: NFT Football Manager with blockchain + P2E integration
-- 🌟 **Passion**: Creating engaging, interactive experiences that educate and entertain
+- 🎯 **Specializing in**: AWS Cloud Services, Infrastructure as Code, CI/CD Pipelines, and Containerization
+- 👨‍💻 **Currently**: Building hands-on projects with AWS, Docker, Terraform, and GitHub Actions
+- 🧠 **Learning**: Kubernetes, Cloud Architecture Patterns, and Advanced DevOps Practices
+- 💼 **Experience**: Implementing production-ready cloud solutions with best practices
+- 🌟 **Passion**: Automating infrastructure deployment and optimizing cloud operations
 
 <br clear="right"/>
 
@@ -53,68 +52,87 @@ I'm a **Unity Game Developer** with 2+ years of experience building immersive di
 
 <div align="center">
 
-### 🎮 Game Development
+### ☁️ Cloud Platforms
 <p>
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <a href="https://aws.amazon.com/ec2/" target="_blank">
+    <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
   </a>
-  <a href="https://docs.unity3d.com/Manual/webgl.html" target="_blank">
-    <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+  <a href="https://aws.amazon.com/s3/" target="_blank">
+    <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
   </a>
-  <a href="https://www.unrealengine.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+  <a href="https://aws.amazon.com/cloudfront/" target="_blank">
+    <img src="https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazon-cloudfront&logoColor=white" />
+  </a>
+  <a href="https://aws.amazon.com/vpc/" target="_blank">
+    <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="https://aws.amazon.com/lambda/" target="_blank">
+    <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+  </a>
+  <a href="https://aws.amazon.com/api-gateway/" target="_blank">
+    <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" />
+  </a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
+    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
   </a>
 </p>
 
-### 🌐 Multiplayer & Networking
+### 🐳 Containers & Orchestration
 <p>
-  <a href="https://www.photonengine.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Photon-004482?style=for-the-badge&logo=photon&logoColor=white" />
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
-  <a href="https://mirror-networking.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Mirror-1B1F23?style=for-the-badge&logo=mirror&logoColor=white" />
+  <a href="https://docs.docker.com/compose/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
-  <a href="https://netcode.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Netcode-FF6B35?style=for-the-badge&logo=unity&logoColor=white" />
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   </a>
 </p>
 
-### 🎨 Design & 3D Modeling
+### 🏗️ Infrastructure as Code
 <p>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  </a>
-  <a href="https://aseprite.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
+  <a href="https://www.cloudformation.aws/" target="_blank">
+    <img src="https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
 </p>
 
-### 🔗 Web3 & Blockchain
+### 🔄 CI/CD & Automation
 <p>
-  <a href="https://metamask.io/" target="_blank">
-    <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   </a>
-  <a href="https://web3js.readthedocs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   </a>
-  <a href="https://soliditylang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  </a>
-  <a href="https://ethereum.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <a href="https://gitlab.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
 </p>
 
-### 💻 Programming & Development
+### 🌐 Web Servers & Networking
+<p>
+  <a href="https://www.nginx.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  </a>
+  <a href="https://httpd.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>
+</p>
+
+### 💻 Programming & Scripting
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -125,24 +143,21 @@ I'm a **Unity Game Developer** with 2+ years of experience building immersive di
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://www.bash.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   </a>
 </p>
 
-### ☁️ Cloud & Deployment
+### 📦 Version Control & Tools
 <p>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </a>
-  <a href="https://www.netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a>
 </p>
 
@@ -154,90 +169,120 @@ I'm a **Unity Game Developer** with 2+ years of experience building immersive di
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=3000&lines=Check+out+my+awesome+projects!+🚀)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=3000&lines=Check+out+my+cloud+projects!+☁️)](https://git.io/typing-svg)
   
 </div>
 
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" height="80">
-      <h3>🎮 NFT Football Manager</h3>
-      <p><em>WebGL manager game with NFT trading, wallet integration & P2E economics</em></p>
+      <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="80" height="80">
+      <h3>🌐 Static Website (S3 + CloudFront)</h3>
+      <p><em>Static WebGL Unity game build hosted on S3 with CloudFront CDN for global content delivery</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+        <img src="https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazon-cloudfront&logoColor=white" />
+        <img src="https://img.shields.io/badge/Static_Site-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
       </p>
-      <a href="https://footballmanager-beta.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🔗_Live_Demo-blue?style=for-the-badge" />
+      <a href="https://github.com/MHS-4ever/project-01-static-website-s3-cloudfront" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_View_Repository-blue?style=for-the-badge" />
       </a>
     </td>
     <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80">
-      <h3>📚 EFG Educational Games</h3>
-      <p><em>Skill-based Unity games for interactive learning in math & finance</em></p>
+      <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="80" height="80">
+      <h3>🖥️ Linux Web Server on EC2</h3>
+      <p><em>Linux server on EC2 running Nginx/Apache with SSH access and custom security groups</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Education-4CAF50?style=flat-square&logo=google-classroom&logoColor=white" />
+        <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
       </p>
-      <a href="https://www.efggames.com/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Visit_Website-green?style=for-the-badge" />
+      <a href="https://github.com/MHS-4ever/project-02-ec2-linux-webserver" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_View_Repository-blue?style=for-the-badge" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" height="80">
-      <h3>🚇 Subway Surfer Meme Coin</h3>
-      <p><em>3D endless runner with meme branding & crypto integration</em></p>
+      <img src="https://media.giphy.com/media/3o7abldb0xlfxRPttC/giphy.gif" width="80" height="80">
+      <h3>🌐 AWS Networking (VPC + Subnets)</h3>
+      <p><em>Custom AWS network with VPC, public & private subnets, routing tables, and Internet Gateway</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/3D_Runner-FF6B35?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Crypto-F7931E?style=flat-square&logo=bitcoin&logoColor=white" />
+        <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Networking-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Subnets-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white" />
       </p>
-      <a href="https://trainway.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🎮_Play_Now-orange?style=for-the-badge" />
+      <a href="https://github.com/MHS-4ever/project-03-aws-networking-vpc" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_View_Repository-blue?style=for-the-badge" />
       </a>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80">
-      <h3>🏗️ Defect Detection Viz</h3>
-      <p><em>ML model integration for building flaw visualization in Unity</em></p>
+      <img src="https://media.giphy.com/media/3o7aD2saal8hNFbfzy/giphy.gif" width="80" height="80">
+      <h3>🐳 Dockerized Application</h3>
+      <p><em>Web app (Node.js/Python) packaged as Docker image with container and Docker Compose setup</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <img src="https://img.shields.io/badge/🔒_Private_Delivery-gray?style=for-the-badge" />
+      <a href="https://github.com/MHS-4ever/project-04-dockerized-app" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_View_Repository-blue?style=for-the-badge" />
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" height="80">
-      <h3>🚙 Up the Hill</h3>
-      <p><em>2D physics-based driving game inspired by Hill Climb Racing</em></p>
+      <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="80" height="80">
+      <h3>🔄 CI/CD Pipeline (GitHub Actions → EC2)</h3>
+      <p><em>Automated pipeline that triggers on push, builds Docker image, and deploys to EC2</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/2D_Physics-4CAF50?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Mobile-009688?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+        <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
       </p>
-      <a href="https://upthehill.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🏁_Start_Racing-success?style=for-the-badge" />
+      <a href="https://github.com/MHS-4ever/project-05-cicd-flask-ec2" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_View_Repository-blue?style=for-the-badge" />
       </a>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/3oEjHCWdU7F4hkcudy/giphy.gif" width="80" height="80">
-      <h3>🫧 Bubble Pop</h3>
-      <p><em>Casual bubble shooter with progression system and scoring</em></p>
+      <img src="https://media.giphy.com/media/3o7aD2saal8hNFbfzy/giphy.gif" width="80" height="80">
+      <h3>🏗️ Infrastructure as Code (Terraform)</h3>
+      <p><em>Cloud infrastructure defined with Terraform: EC2, S3, and security groups</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Casual-FF4081?style=flat-square&logo=gamepad&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
       </p>
-      <a href="https://portfolio-bubblepop.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🎯_Play_Game-purple?style=for-the-badge" />
+      <a href="https://github.com/MHS-4ever/project-06-terraform-aws" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_View_Repository-blue?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="80" height="80">
+      <h3>🏢 Multi-Tier AWS Architecture (PRO)</h3>
+      <p><em>Production-ready architecture with Load Balancer, Web tier, Database tier, and public/private subnets</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS_Architecture-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/ELB-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" />
+      </p>
+      <a href="https://github.com/MHS-4ever/project-07-multi-tier-aws" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_View_Repository-blue?style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/3o7abldb0xlfxRPttC/giphy.gif" width="80" height="80">
+      <h3>⚡ Serverless API (Lambda + API Gateway)</h3>
+      <p><em>Serverless backend with API Gateway, Lambda functions, and DynamoDB database</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
+        <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazon-api-gateway&logoColor=white" />
+        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" />
+      </p>
+      <a href="https://github.com/MHS-4ever/project-08-serverless-api" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_View_Repository-blue?style=for-the-badge" />
       </a>
     </td>
   </tr>
@@ -252,12 +297,12 @@ I'm a **Unity Game Developer** with 2+ years of experience building immersive di
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MHS-4ever&bg_color=1a1b27&color=628fdb&line=d65db1&point=ffeb95&area=true&hide_border=true" width="100%" />
   
 </div>
-<!--
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MHS-4ever&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHS-4ever&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10" />
 </div>
--->
+
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=MHS-4ever&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </div>
@@ -273,7 +318,7 @@ I'm a **Unity Game Developer** with 2+ years of experience building immersive di
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=3000&lines=Let's+build+something+amazing+together!+🚀;Always+open+to+new+opportunities!+💼;Ready+to+collaborate+on+exciting+projects!+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=3000&lines=Let's+build+scalable+infrastructure+together!+☁️;Always+open+to+new+opportunities!+💼;Ready+to+collaborate+on+cloud+projects!+🚀" />
   
 </div>
 
@@ -287,29 +332,24 @@ I'm a **Unity Game Developer** with 2+ years of experience building immersive di
   <a href="mailto:m.hasnain1015@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
 ### 💡 What I'm Looking For:
-- 🎮 **Game Development Projects** - Unity, Unreal Engine, multiplayer games
-- 🌐 **Web3 & Blockchain Integration** - NFT games, DeFi applications
-- 📚 **Educational Technology** - Gamified learning experiences
-- 🤖 **AI/ML Integration** - Computer vision, procedural generation
-- 👥 **Open Source Contributions** - Game development tools and frameworks
+- ☁️ **Cloud Engineering Roles** - AWS, Azure, GCP infrastructure management
+- 🔄 **DevOps Positions** - CI/CD pipelines, automation, and infrastructure optimization
+- 🏗️ **Infrastructure as Code** - Terraform, CloudFormation, and infrastructure automation
+- 🐳 **Container & Orchestration** - Docker, Kubernetes, and containerized deployments
+- 🤖 **Site Reliability Engineering** - Monitoring, observability, and reliability practices
+- 👥 **Open Source Contributions** - Cloud tools, DevOps frameworks, and infrastructure projects
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+create+digital+magic!+🎮✨;Game+on!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+build+in+the+cloud!+☁️✨;Keep+deploying!+🚀" />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:00ff95&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a8ff,100:0097e6&height=120&section=footer"/>
 </div>
