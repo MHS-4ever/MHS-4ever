@@ -167,6 +167,6 @@ I enjoy designing systems that scale from prototype to production.
   
   **⭐ If you like my projects, consider giving them a star! ⭐**
   
-  Made with ❤️ by [Muhammad Hasnain](https://github.com/MHS-4ever)
+  Made with ❤️ by [Muhammad Hasnain](https://mhasnain.me)
   
 </div>
