@@ -8,7 +8,6 @@
 💡 C# • WebGL • ScriptableObjects • AWS
 </p>
 
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
@@ -38,12 +37,12 @@ I enjoy designing systems that scale from prototype to production.
 
 ### 🛠️ **Tech Stack & Tools**
 
-| Category | Technologies |
-|:---|:---|
-| **🎮 Engine** | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> |
-| **🧩 Systems** | <img src="https://img.shields.io/badge/ScriptableObjects-000000?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/State_Management-0ea5e9?style=flat-square" /> <img src="https://img.shields.io/badge/Persistence_Systems-6e00ff?style=flat-square" /> <img src="https://img.shields.io/badge/Level_Architecture-ff6b6b?style=flat-square" /> <img src="https://img.shields.io/badge/Performance_Optimization-ffa500?style=flat-square" /> <img src="https://img.shields.io/badge/WebGL_Optimization-990000?style=flat-square" /> |
-| **☁️ Deploy** | <a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" /></a> <a href="https://aws.amazon.com/cloudfront/"><img src="https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazon-cloudfront&logoColor=white" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a> <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /></a> |
-| **🔧 Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Profiling-628fdb?style=flat-square" /> <img src="https://img.shields.io/badge/Debugging-d65db1?style=flat-square" /> <img src="https://img.shields.io/badge/Unity_Editor-000000?style=flat-square&logo=unity&logoColor=white" /> |
+| Category       | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| :------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🎮 Engine**  | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />                                                                                                                                                                                                                                                                                                             |
+| **🧩 Systems** | <img src="https://img.shields.io/badge/ScriptableObjects-000000?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/State_Management-0ea5e9?style=flat-square" /> <img src="https://img.shields.io/badge/Persistence_Systems-6e00ff?style=flat-square" /> <img src="https://img.shields.io/badge/Level_Architecture-ff6b6b?style=flat-square" /> <img src="https://img.shields.io/badge/Performance_Optimization-ffa500?style=flat-square" /> <img src="https://img.shields.io/badge/WebGL_Optimization-990000?style=flat-square" />                                                    |
+| **☁️ Deploy**  | <a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" /></a> <a href="https://aws.amazon.com/cloudfront/"><img src="https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazon-cloudfront&logoColor=white" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a> <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /></a> |
+| **🔧 Tools**   | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Profiling-628fdb?style=flat-square" /> <img src="https://img.shields.io/badge/Debugging-d65db1?style=flat-square" /> <img src="https://img.shields.io/badge/Unity_Editor-000000?style=flat-square&logo=unity&logoColor=white" />                                                                                                                                             |
 
 ---
 
@@ -160,9 +159,6 @@ I enjoy designing systems that scale from prototype to production.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:00ff95&height=120&section=footer"/>
 </div>
-
-
----
 
 <div align="center">
   
