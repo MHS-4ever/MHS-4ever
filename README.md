@@ -162,10 +162,8 @@ I enjoy designing systems that scale from prototype to production.
 
 <div align="center">
   
-  **⭐ If you like my projects, consider giving them a star! ⭐**
+  <strong>⭐ If you like my projects, consider giving them a star! ⭐</strong>
   
-  Made with ❤️ by [Muhammad Hasnain](https://mhasnain.me)
+  Made with ❤️ by <a href="https://mhasnain.me" target="_blank" rel="noopener noreferrer">Muhammad Hasnain</a>
   
 </div>
-
-
