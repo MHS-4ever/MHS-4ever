@@ -159,7 +159,7 @@ I enjoy designing systems that scale from prototype to production.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:00ff95&height=120&section=footer"/>
 </div>
-
+---
 <div align="center">
 
 **⭐ If you like my projects, consider giving them a star! ⭐**
