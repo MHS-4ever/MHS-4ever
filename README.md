@@ -113,16 +113,11 @@ I enjoy designing systems that scale from prototype to production.
 ### 📈 **GitHub Stats & Activity**
 
 <div align="center">
-  
-  <a href="https://github.com/MHS-4ever" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MHS-4ever&bg_color=1a1b27&color=628fdb&line=d65db1&point=ffeb95&area=true&hide_border=true" width="100%" />
-  </a>
-  
-</div>
-
-<div align="center">
-  <a href="https://github.com/MHS-4ever" target="_blank">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=MHS-4ever&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <a href="https://github.com/MHS-4ever">
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app?user=MHS-4ever&theme=tokyonight&hide_border=true&border_radius=10"
+      alt="GitHub Streak Stats"
+    />
   </a>
 </div>
 
