@@ -1,0 +1,48 @@
+name: Update Daily Code Activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 02:17 UTC
+    - cron: "17 2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-code-activity
+  cancel-in-progress: false
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Calculate code activity
+        env:
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+          GH_USERNAME: ${{ vars.GH_USERNAME }}
+        run: python scripts/update_activity.py
+
+      - name: Commit dashboard changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md images/code-activity.svg
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update daily code activity dashboard"
+            git push
+          else
+            echo "Dashboard is already up to date."
+          fi

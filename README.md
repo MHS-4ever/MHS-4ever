@@ -95,6 +95,22 @@
   <img src="https://raw.githubusercontent.com/MHS-4ever/MHS-4ever/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
 </picture>
 
+<br/>
+
+<!-- CODE_ACTIVITY_START -->
+## 📊 Daily Code Activity
+
+<p align="center">
+  <sub>Automatically updated daily · Last 30 days · Public + private repositories</sub>
+</p>
+
+<p align="center">
+  Your code activity dashboard will appear here after the first successful run of the GitHub Actions workflow.
+</p>
+
+<!-- CODE_ACTIVITY_END -->
+
+<br/>
 
 <div align="center">
 
