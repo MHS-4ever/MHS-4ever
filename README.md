@@ -95,70 +95,14 @@
   <img src="https://raw.githubusercontent.com/MHS-4ever/MHS-4ever/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
 </picture>
 
-<br/>
+<br><br/>
 
 <!-- CODE_ACTIVITY_START -->
 ## 📊 Daily Code Activity
 
 <p align="center">
-  <sub>Automatically updated daily · Last 30 days · Public + private repositories · Updated 2026-10-21 UTC</sub>
+<img src="images/code-activity.svg" width="100%" alt="Daily code activity" />
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>44</b><br/><sub>Commits</sub></td>
-    <td align="center"><b>+126,237</b><br/><sub>Lines added</sub></td>
-    <td align="center"><b>-18,867</b><br/><sub>Lines deleted</sub></td>
-    <td align="center"><b>7/30</b><br/><sub>Active days</sub></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="images/code-activity.svg" alt="Lines added and deleted per day" width="100%" />
-</p>
-
-<details>
-<summary>Daily breakdown</summary>
-
-<table align="center">
-  <thead>
-    <tr><th>Date (UTC)</th><th>Commits</th><th>Added</th><th>Deleted</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>2026-10-21</td><td align="right">3</td><td align="right">+271</td><td align="right">-4,732</td></tr>
-    <tr><td>2026-10-20</td><td align="right">15</td><td align="right">+30,530</td><td align="right">-2,578</td></tr>
-    <tr><td>2026-10-19</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-18</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-17</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-16</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-15</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-14</td><td align="right">1</td><td align="right">+1,522</td><td align="right">-305</td></tr>
-    <tr><td>2026-10-13</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-12</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-11</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-10</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-09</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-08</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-07</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-06</td><td align="right">8</td><td align="right">+1,421</td><td align="right">-226</td></tr>
-    <tr><td>2026-10-05</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-04</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-03</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-02</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-10-01</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-09-30</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-09-29</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-09-28</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-09-27</td><td align="right">1</td><td align="right">+266</td><td align="right">-2</td></tr>
-    <tr><td>2026-09-26</td><td align="right">13</td><td align="right">+88,880</td><td align="right">-2,349</td></tr>
-    <tr><td>2026-09-25</td><td align="right">3</td><td align="right">+3,347</td><td align="right">-8,675</td></tr>
-    <tr><td>2026-09-24</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-09-23</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-    <tr><td>2026-09-22</td><td align="right">0</td><td align="right">+0</td><td align="right">-0</td></tr>
-  </tbody>
-</table>
-
-</details>
 
 <!-- CODE_ACTIVITY_END -->
 
