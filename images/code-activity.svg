@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="100%" role="img" aria-label="Lines added and deleted per day over the last 30 days">
+<style>.bg{fill:#0d1117}.t{fill:#8b949e;font:11px -apple-system,Segoe UI,sans-serif}.h{fill:#e6edf3;font:600 14px -apple-system,Segoe UI,sans-serif}.g{stroke:#30363d;stroke-width:1}.a{fill:#3fb950}.d{fill:#f85149}</style>
+<rect class="bg" width="900" height="300" rx="8"/>
+<text class="h" x="56" y="22">Lines added / deleted per day</text>
+<line class="g" x1="56" x2="884" y1="146.0" y2="146.0"/>
+<text class="t" x="48" y="40" text-anchor="end">+88,880</text>
+<text class="t" x="48" y="150.0" text-anchor="end">0</text>
+<text class="t" x="48" y="260" text-anchor="end">-88,880</text>
+<text class="t" x="69.8" y="278" text-anchor="middle">Sep 22</text>
+<rect class="a" x="142.9" y="141.9" width="19.3" height="4.1"><title>2026-09-25: +3347 / -8675 (3 commits)</title></rect>
+<rect class="d" x="142.9" y="146.0" width="19.3" height="10.7"><title>2026-09-25: +3347 / -8675 (3 commits)</title></rect>
+<rect class="a" x="170.5" y="36.0" width="19.3" height="110.0"><title>2026-09-26: +88880 / -2349 (13 commits)</title></rect>
+<rect class="d" x="170.5" y="146.0" width="19.3" height="2.9"><title>2026-09-26: +88880 / -2349 (13 commits)</title></rect>
+<rect class="a" x="198.1" y="145.7" width="19.3" height="0.3"><title>2026-09-27: +266 / -2 (1 commits)</title></rect>
+<rect class="d" x="198.1" y="146.0" width="19.3" height="0.0"><title>2026-09-27: +266 / -2 (1 commits)</title></rect>
+<text class="t" x="207.8" y="278" text-anchor="middle">Sep 27</text>
+<text class="t" x="345.8" y="278" text-anchor="middle">Oct 02</text>
+<rect class="a" x="446.5" y="144.2" width="19.3" height="1.8"><title>2026-10-06: +1421 / -226 (8 commits)</title></rect>
+<rect class="d" x="446.5" y="146.0" width="19.3" height="0.3"><title>2026-10-06: +1421 / -226 (8 commits)</title></rect>
+<text class="t" x="483.8" y="278" text-anchor="middle">Oct 07</text>
+<text class="t" x="621.8" y="278" text-anchor="middle">Oct 12</text>
+<rect class="a" x="667.3" y="144.1" width="19.3" height="1.9"><title>2026-10-14: +1522 / -305 (1 commits)</title></rect>
+<rect class="d" x="667.3" y="146.0" width="19.3" height="0.4"><title>2026-10-14: +1522 / -305 (1 commits)</title></rect>
+<text class="t" x="759.8" y="278" text-anchor="middle">Oct 17</text>
+<rect class="a" x="832.9" y="108.2" width="19.3" height="37.8"><title>2026-10-20: +30530 / -2578 (15 commits)</title></rect>
+<rect class="d" x="832.9" y="146.0" width="19.3" height="3.2"><title>2026-10-20: +30530 / -2578 (15 commits)</title></rect>
+<rect class="a" x="860.5" y="145.7" width="19.3" height="0.3"><title>2026-10-21: +271 / -4732 (3 commits)</title></rect>
+<rect class="d" x="860.5" y="146.0" width="19.3" height="5.9"><title>2026-10-21: +271 / -4732 (3 commits)</title></rect>
+<text class="t" x="870.2" y="278" text-anchor="middle">Oct 21</text>
+</svg>
