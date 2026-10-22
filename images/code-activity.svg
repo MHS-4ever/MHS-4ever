@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="556" viewBox="0 0 900 556" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
-<title id="t">Daily code activity, Sep 22 to Oct 21</title>
+<title id="t">Daily code activity, Sep 23 to Oct 22</title>
 <desc id="d">126,473 lines added, 19,025 deleted, 45 commits on 7 of 30 days.</desc>
 <defs>
 <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
@@ -11,7 +11,7 @@
 <rect x=".5" y=".5" width="899" height="555" rx="14" fill="url(#glow)"/>
 <rect x="28" y="26" width="4" height="46" rx="2" fill="url(#brand)"/>
 <text x="44" y="46" font-size="23" font-weight="700" fill="#e2e8f0">Daily code activity</text>
-<text x="44" y="68" font-size="14" fill="#94a3b8">Last 30 days · Sep 22 – Oct 21, 2026 · UTC</text>
+<text x="44" y="68" font-size="14" fill="#94a3b8">Last 30 days · Sep 23 – Oct 22, 2026 · UTC</text>
 <rect x="722" y="32" width="150" height="30" rx="15" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".4"/>
 <text x="797" y="52" font-size="13" font-weight="600" fill="#e2e8f0" text-anchor="middle" letter-spacing=".5">Public + private</text>
 <rect x="28.0" y="100" width="159.2" height="92" rx="10" fill="#111827" stroke="#1f2937"/>
@@ -59,49 +59,49 @@
 <line x1="88" x2="872" y1="362" y2="362" stroke="#334155" stroke-width="1.2"/>
 <text x="76" y="366.5" font-size="12.5" fill="#94a3b8" text-anchor="end">0</text>
 <circle cx="101.1" cy="362" r="2" fill="#334155"/>
-<text x="101.1" y="500" font-size="13" text-anchor="middle" fill="#94a3b8">Sep 22</text>
+<text x="101.1" y="500" font-size="13" text-anchor="middle" fill="#94a3b8">Sep 23</text>
 <circle cx="127.2" cy="362" r="2" fill="#334155"/>
-<circle cx="153.3" cy="362" r="2" fill="#334155"/>
-<path d="M171.4 362.0V344.0A3.0 3.0 0 0 1 174.4 341.0H184.6A3.0 3.0 0 0 1 187.6 344.0V362.0Z" fill="url(#add)"/>
-<path d="M171.4 362.0V392.7A3.0 3.0 0 0 0 174.4 395.7H184.6A3.0 3.0 0 0 0 187.6 392.7V362.0Z" fill="url(#del)"/>
-<path d="M197.5 362.0V257.0A3.0 3.0 0 0 1 200.5 254.0H210.7A3.0 3.0 0 0 1 213.7 257.0V362.0Z" fill="url(#add)"/>
-<path d="M197.5 362.0V376.6A3.0 3.0 0 0 0 200.5 379.6H210.7A3.0 3.0 0 0 0 213.7 376.6V362.0Z" fill="url(#del)"/>
-<path d="M223.6 362.0V359.0A3.0 3.0 0 0 1 226.6 356.1H236.9A3.0 3.0 0 0 1 239.8 359.0V362.0Z" fill="url(#add)"/>
-<path d="M223.6 362.0V363.0A1.0 1.0 0 0 0 224.6 364.0H238.8A1.0 1.0 0 0 0 239.8 363.0V362.0Z" fill="url(#del)"/>
-<text x="231.7" y="500" font-size="13" text-anchor="middle" fill="#94a3b8">Sep 27</text>
+<path d="M145.2 362.0V344.0A3.0 3.0 0 0 1 148.2 341.0H158.4A3.0 3.0 0 0 1 161.4 344.0V362.0Z" fill="url(#add)"/>
+<path d="M145.2 362.0V392.7A3.0 3.0 0 0 0 148.2 395.7H158.4A3.0 3.0 0 0 0 161.4 392.7V362.0Z" fill="url(#del)"/>
+<path d="M171.4 362.0V257.0A3.0 3.0 0 0 1 174.4 254.0H184.6A3.0 3.0 0 0 1 187.6 257.0V362.0Z" fill="url(#add)"/>
+<path d="M171.4 362.0V376.6A3.0 3.0 0 0 0 174.4 379.6H184.6A3.0 3.0 0 0 0 187.6 376.6V362.0Z" fill="url(#del)"/>
+<path d="M197.5 362.0V359.0A3.0 3.0 0 0 1 200.5 356.1H210.7A3.0 3.0 0 0 1 213.7 359.0V362.0Z" fill="url(#add)"/>
+<path d="M197.5 362.0V363.0A1.0 1.0 0 0 0 198.5 364.0H212.7A1.0 1.0 0 0 0 213.7 363.0V362.0Z" fill="url(#del)"/>
+<circle cx="231.7" cy="362" r="2" fill="#334155"/>
+<text x="231.7" y="500" font-size="13" text-anchor="middle" fill="#94a3b8">Sep 28</text>
 <circle cx="257.9" cy="362" r="2" fill="#334155"/>
 <circle cx="284.0" cy="362" r="2" fill="#334155"/>
 <circle cx="310.1" cy="362" r="2" fill="#334155"/>
 <circle cx="336.3" cy="362" r="2" fill="#334155"/>
 <circle cx="362.4" cy="362" r="2" fill="#334155"/>
-<text x="362.4" y="500" font-size="13" text-anchor="middle" fill="#94a3b8">Oct 2</text>
+<text x="362.4" y="500" font-size="13" text-anchor="middle" fill="#94a3b8">Oct 3</text>
 <circle cx="388.5" cy="362" r="2" fill="#334155"/>
 <circle cx="414.7" cy="362" r="2" fill="#334155"/>
-<circle cx="440.8" cy="362" r="2" fill="#334155"/>
-<path d="M458.8 362.0V351.3A3.0 3.0 0 0 1 461.8 348.3H472.0A3.0 3.0 0 0 1 475.0 351.3V362.0Z" fill="url(#add)"/>
-<path d="M458.8 362.0V364.7A2.7 2.7 0 0 0 461.6 367.4H472.3A2.7 2.7 0 0 0 475.0 364.7V362.0Z" fill="url(#del)"/>
+<path d="M432.7 362.0V351.3A3.0 3.0 0 0 1 435.7 348.3H445.9A3.0 3.0 0 0 1 448.9 351.3V362.0Z" fill="url(#add)"/>
+<path d="M432.7 362.0V364.7A2.7 2.7 0 0 0 435.4 367.4H446.2A2.7 2.7 0 0 0 448.9 364.7V362.0Z" fill="url(#del)"/>
+<circle cx="466.9" cy="362" r="2" fill="#334155"/>
 <circle cx="493.1" cy="362" r="2" fill="#334155"/>
-<text x="493.1" y="500" font-size="13" text-anchor="middle" fill="#94a3b8">Oct 7</text>
+<text x="493.1" y="500" font-size="13" text-anchor="middle" fill="#94a3b8">Oct 8</text>
 <circle cx="519.2" cy="362" r="2" fill="#334155"/>
 <circle cx="545.3" cy="362" r="2" fill="#334155"/>
 <circle cx="571.5" cy="362" r="2" fill="#334155"/>
 <circle cx="597.6" cy="362" r="2" fill="#334155"/>
 <circle cx="623.7" cy="362" r="2" fill="#334155"/>
-<text x="623.7" y="500" font-size="13" text-anchor="middle" fill="#94a3b8">Oct 12</text>
-<circle cx="649.9" cy="362" r="2" fill="#334155"/>
-<path d="M667.9 362.0V350.9A3.0 3.0 0 0 1 670.9 347.9H681.1A3.0 3.0 0 0 1 684.1 350.9V362.0Z" fill="url(#add)"/>
-<path d="M667.9 362.0V365.3A3.0 3.0 0 0 0 670.9 368.3H681.1A3.0 3.0 0 0 0 684.1 365.3V362.0Z" fill="url(#del)"/>
+<text x="623.7" y="500" font-size="13" text-anchor="middle" fill="#94a3b8">Oct 13</text>
+<path d="M641.8 362.0V350.9A3.0 3.0 0 0 1 644.8 347.9H655.0A3.0 3.0 0 0 1 658.0 350.9V362.0Z" fill="url(#add)"/>
+<path d="M641.8 362.0V365.3A3.0 3.0 0 0 0 644.8 368.3H655.0A3.0 3.0 0 0 0 658.0 365.3V362.0Z" fill="url(#del)"/>
+<circle cx="676.0" cy="362" r="2" fill="#334155"/>
 <circle cx="702.1" cy="362" r="2" fill="#334155"/>
 <circle cx="728.3" cy="362" r="2" fill="#334155"/>
 <circle cx="754.4" cy="362" r="2" fill="#334155"/>
-<text x="754.4" y="500" font-size="13" text-anchor="middle" fill="#94a3b8">Oct 17</text>
+<text x="754.4" y="500" font-size="13" text-anchor="middle" fill="#94a3b8">Oct 18</text>
 <circle cx="780.5" cy="362" r="2" fill="#334155"/>
-<circle cx="806.7" cy="362" r="2" fill="#334155"/>
-<path d="M824.7 362.0V301.7A3.0 3.0 0 0 1 827.7 298.7H837.9A3.0 3.0 0 0 1 840.9 301.7V362.0Z" fill="url(#add)"/>
-<path d="M824.7 362.0V377.4A3.0 3.0 0 0 0 827.7 380.4H837.9A3.0 3.0 0 0 0 840.9 377.4V362.0Z" fill="url(#del)"/>
-<path d="M850.8 362.0V356.8A3.0 3.0 0 0 1 853.8 353.8H864.0A3.0 3.0 0 0 1 867.0 356.8V362.0Z" fill="url(#add)"/>
-<path d="M850.8 362.0V384.3A3.0 3.0 0 0 0 853.8 387.3H864.0A3.0 3.0 0 0 0 867.0 384.3V362.0Z" fill="url(#del)"/>
-<text x="858.9" y="500" font-size="13" text-anchor="middle" fill="#e2e8f0" font-weight="600">Oct 21</text>
+<path d="M798.6 362.0V301.7A3.0 3.0 0 0 1 801.6 298.7H811.8A3.0 3.0 0 0 1 814.8 301.7V362.0Z" fill="url(#add)"/>
+<path d="M798.6 362.0V377.4A3.0 3.0 0 0 0 801.6 380.4H811.8A3.0 3.0 0 0 0 814.8 377.4V362.0Z" fill="url(#del)"/>
+<path d="M824.7 362.0V356.8A3.0 3.0 0 0 1 827.7 353.8H837.9A3.0 3.0 0 0 1 840.9 356.8V362.0Z" fill="url(#add)"/>
+<path d="M824.7 362.0V384.3A3.0 3.0 0 0 0 827.7 387.3H837.9A3.0 3.0 0 0 0 840.9 384.3V362.0Z" fill="url(#del)"/>
+<circle cx="858.9" cy="362" r="2" fill="#334155"/>
+<text x="858.9" y="500" font-size="13" text-anchor="middle" fill="#e2e8f0" font-weight="600">Oct 22</text>
 <line x1="28" x2="872" y1="522" y2="522" stroke="#1f2937"/>
 <text x="28" y="543" font-size="12" fill="#94a3b8">Commits counted by author date (UTC) · bar height uses a square-root scale so small days stay visible</text>
 </svg>
