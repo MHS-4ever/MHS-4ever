@@ -1,4 +1,5 @@
 import datetime as dt
+import hashlib
 import json
 import math
 import os
@@ -304,8 +305,9 @@ def build_chart(stats):
     return "\n".join(out)
 
 
-def build_section(stats):
+def build_section(stats, chart):
     s = summarize(stats)
+    version = hashlib.sha256(chart.encode("utf-8")).hexdigest()[:12]
     alt = (
         f"Daily code activity over the last {DAYS} days: {fmt(s['added'])} lines added, "
         f"{fmt(s['deleted'])} deleted, {fmt(s['commits'])} commits on {s['active']} active days"
@@ -313,7 +315,7 @@ def build_section(stats):
     return f"""## 📊 Daily Code Activity
 
 <p align="center">
-<img src="{CHART}" width="100%" alt="{alt}" />
+<img src="{CHART}?v={version}" width="100%" alt="{alt}" />
 </p>"""
 
 
@@ -330,10 +332,11 @@ def update_readme(section):
 
 def main():
     stats = collect(window())
+    chart = build_chart(stats)
     os.makedirs(os.path.dirname(CHART), exist_ok=True)
-    with open(CHART, "w", encoding="utf-8") as f:
-        f.write(build_chart(stats))
-    update_readme(build_section(stats))
+    with open(CHART, "w", encoding="utf-8", newline="") as f:
+        f.write(chart)
+    update_readme(build_section(stats, chart))
 
 
 if __name__ == "__main__":

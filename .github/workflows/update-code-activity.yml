@@ -3,8 +3,8 @@ name: Update Daily Code Activity
 on:
   workflow_dispatch:
   schedule:
-    # Daily at 02:17 UTC
-    - cron: "17 2 * * *"
+    # Every 8 hours at 02:17, 10:17, and 18:17 UTC
+    - cron: "17 2,10,18 * * *"
 
 permissions:
   contents: write
