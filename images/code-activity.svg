@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="556" viewBox="0 0 900 556" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
 <title id="t">Daily code activity, Oct 2 to Oct 31</title>
-<desc id="d">117,702 lines added, 8,161 deleted, 41 commits on 6 of 30 days.</desc>
+<desc id="d">124,901 lines added, 8,173 deleted, 44 commits on 6 of 30 days.</desc>
 <defs>
 <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
 <linearGradient id="add" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#0e7490"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
@@ -17,23 +17,23 @@
 <rect x="28.0" y="100" width="159.2" height="92" rx="10" fill="#111827" stroke="#1f2937"/>
 <rect x="28.0" y="118" width="4" height="56" rx="2" fill="#38bdf8"/>
 <text x="48.0" y="127" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="1">LINES ADDED</text>
-<text x="48.0" y="161" font-size="28" font-weight="700" fill="#e2e8f0">+117,702</text>
+<text x="48.0" y="161" font-size="28" font-weight="700" fill="#e2e8f0">+124,901</text>
 <text x="48.0" y="181" font-size="13" fill="#94a3b8">peak day Oct 30</text>
 <rect x="199.2" y="100" width="159.2" height="92" rx="10" fill="#111827" stroke="#1f2937"/>
 <rect x="199.2" y="118" width="4" height="56" rx="2" fill="#a78bfa"/>
 <text x="219.2" y="127" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="1">LINES DELETED</text>
-<text x="219.2" y="161" font-size="28" font-weight="700" fill="#e2e8f0">−8,161</text>
+<text x="219.2" y="161" font-size="28" font-weight="700" fill="#e2e8f0">−8,173</text>
 <text x="219.2" y="181" font-size="13" fill="#94a3b8">peak day Oct 21</text>
 <rect x="370.4" y="100" width="159.2" height="92" rx="10" fill="#111827" stroke="#1f2937"/>
 <rect x="370.4" y="118" width="4" height="56" rx="2" fill="url(#brand)"/>
 <text x="390.4" y="127" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="1">NET CHANGE</text>
-<text x="390.4" y="161" font-size="28" font-weight="700" fill="#e2e8f0">+109,541</text>
+<text x="390.4" y="161" font-size="28" font-weight="700" fill="#e2e8f0">+116,728</text>
 <text x="390.4" y="181" font-size="13" fill="#94a3b8">added − deleted</text>
 <rect x="541.6" y="100" width="159.2" height="92" rx="10" fill="#111827" stroke="#1f2937"/>
 <rect x="541.6" y="118" width="4" height="56" rx="2" fill="#818cf8"/>
 <text x="561.6" y="127" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="1">COMMITS</text>
-<text x="561.6" y="161" font-size="28" font-weight="700" fill="#e2e8f0">41</text>
-<text x="561.6" y="181" font-size="13" fill="#94a3b8">6.8 per active day</text>
+<text x="561.6" y="161" font-size="28" font-weight="700" fill="#e2e8f0">44</text>
+<text x="561.6" y="181" font-size="13" fill="#94a3b8">7.3 per active day</text>
 <rect x="712.8" y="100" width="159.2" height="92" rx="10" fill="#111827" stroke="#1f2937"/>
 <rect x="712.8" y="118" width="4" height="56" rx="2" fill="#818cf8"/>
 <text x="732.8" y="127" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="1">ACTIVE DAYS</text>
@@ -98,7 +98,8 @@
 <circle cx="806.7" cy="362" r="2" fill="#334155"/>
 <path d="M824.7 362.0V257.0A3.0 3.0 0 0 1 827.7 254.0H837.9A3.0 3.0 0 0 1 840.9 257.0V362.0Z" fill="url(#add)"/>
 <path d="M824.7 362.0V364.4A2.4 2.4 0 0 0 827.1 366.8H838.5A2.4 2.4 0 0 0 840.9 364.4V362.0Z" fill="url(#del)"/>
-<path d="M850.8 362.0V360.2A1.8 1.8 0 0 1 852.7 358.3H865.2A1.8 1.8 0 0 1 867.0 360.2V362.0Z" fill="url(#add)"/>
+<path d="M850.8 362.0V333.1A3.0 3.0 0 0 1 853.8 330.1H864.0A3.0 3.0 0 0 1 867.0 333.1V362.0Z" fill="url(#add)"/>
+<path d="M850.8 362.0V363.0A1.0 1.0 0 0 0 851.8 364.0H866.0A1.0 1.0 0 0 0 867.0 363.0V362.0Z" fill="url(#del)"/>
 <text x="858.9" y="500" font-size="13" text-anchor="middle" fill="#e2e8f0" font-weight="600">Oct 31</text>
 <line x1="28" x2="872" y1="522" y2="522" stroke="#1f2937"/>
 <text x="28" y="543" font-size="12" fill="#94a3b8">Commits counted by author date (UTC) · bar height uses a square-root scale so small days stay visible</text>
