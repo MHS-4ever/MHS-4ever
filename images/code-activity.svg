@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="556" viewBox="0 0 900 556" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
 <title id="t">Daily code activity, Oct 8 to Nov 6</title>
-<desc id="d">518,977 lines added, 9,507 deleted, 40 commits on 7 of 30 days.</desc>
+<desc id="d">527,329 lines added, 9,863 deleted, 49 commits on 9 of 30 days.</desc>
 <defs>
 <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
 <linearGradient id="add" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#0e7490"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
@@ -17,27 +17,27 @@
 <rect x="28.0" y="100" width="159.2" height="92" rx="10" fill="#111827" stroke="#1f2937"/>
 <rect x="28.0" y="118" width="4" height="56" rx="2" fill="#38bdf8"/>
 <text x="48.0" y="127" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="1">LINES ADDED</text>
-<text x="48.0" y="161" font-size="28" font-weight="700" fill="#e2e8f0">+518,977</text>
+<text x="48.0" y="161" font-size="28" font-weight="700" fill="#e2e8f0">+527,329</text>
 <text x="48.0" y="181" font-size="13" fill="#94a3b8">peak day Nov 3</text>
 <rect x="199.2" y="100" width="159.2" height="92" rx="10" fill="#111827" stroke="#1f2937"/>
 <rect x="199.2" y="118" width="4" height="56" rx="2" fill="#a78bfa"/>
 <text x="219.2" y="127" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="1">LINES DELETED</text>
-<text x="219.2" y="161" font-size="28" font-weight="700" fill="#e2e8f0">−9,507</text>
+<text x="219.2" y="161" font-size="28" font-weight="700" fill="#e2e8f0">−9,863</text>
 <text x="219.2" y="181" font-size="13" fill="#94a3b8">peak day Oct 21</text>
 <rect x="370.4" y="100" width="159.2" height="92" rx="10" fill="#111827" stroke="#1f2937"/>
 <rect x="370.4" y="118" width="4" height="56" rx="2" fill="url(#brand)"/>
 <text x="390.4" y="127" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="1">NET CHANGE</text>
-<text x="390.4" y="161" font-size="28" font-weight="700" fill="#e2e8f0">+509,470</text>
+<text x="390.4" y="161" font-size="28" font-weight="700" fill="#e2e8f0">+517,466</text>
 <text x="390.4" y="181" font-size="13" fill="#94a3b8">added − deleted</text>
 <rect x="541.6" y="100" width="159.2" height="92" rx="10" fill="#111827" stroke="#1f2937"/>
 <rect x="541.6" y="118" width="4" height="56" rx="2" fill="#818cf8"/>
 <text x="561.6" y="127" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="1">COMMITS</text>
-<text x="561.6" y="161" font-size="28" font-weight="700" fill="#e2e8f0">40</text>
-<text x="561.6" y="181" font-size="13" fill="#94a3b8">5.7 per active day</text>
+<text x="561.6" y="161" font-size="28" font-weight="700" fill="#e2e8f0">49</text>
+<text x="561.6" y="181" font-size="13" fill="#94a3b8">5.4 per active day</text>
 <rect x="712.8" y="100" width="159.2" height="92" rx="10" fill="#111827" stroke="#1f2937"/>
 <rect x="712.8" y="118" width="4" height="56" rx="2" fill="#818cf8"/>
 <text x="732.8" y="127" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="1">ACTIVE DAYS</text>
-<text x="732.8" y="161" font-size="28" font-weight="700" fill="#e2e8f0">7</text>
+<text x="732.8" y="161" font-size="28" font-weight="700" fill="#e2e8f0">9</text>
 <text x="732.8" y="181" font-size="13" fill="#94a3b8">of 30 days</text>
 <text x="28" y="232" font-size="16" font-weight="600" fill="#e2e8f0">Lines changed per day</text>
 <text x="872.0" y="232" font-size="13" fill="#94a3b8" text-anchor="end">Lines deleted</text>
@@ -99,8 +99,10 @@
 <path d="M772.4 362.0V364.6A2.6 2.6 0 0 0 775.0 367.1H786.1A2.6 2.6 0 0 0 788.6 364.6V362.0Z" fill="url(#del)"/>
 <path d="M798.6 362.0V353.3A3.0 3.0 0 0 1 801.6 350.3H811.8A3.0 3.0 0 0 1 814.8 353.3V362.0Z" fill="url(#add)"/>
 <path d="M798.6 362.0V364.2A2.2 2.2 0 0 0 800.8 366.5H812.5A2.2 2.2 0 0 0 814.8 364.2V362.0Z" fill="url(#del)"/>
-<circle cx="832.8" cy="362" r="2" fill="#334155"/>
-<circle cx="858.9" cy="362" r="2" fill="#334155"/>
+<path d="M824.7 362.0V354.9A3.0 3.0 0 0 1 827.7 351.9H837.9A3.0 3.0 0 0 1 840.9 354.9V362.0Z" fill="url(#add)"/>
+<path d="M824.7 362.0V363.0A1.0 1.0 0 0 0 825.7 364.0H839.9A1.0 1.0 0 0 0 840.9 363.0V362.0Z" fill="url(#del)"/>
+<path d="M850.8 362.0V352.8A3.0 3.0 0 0 1 853.8 349.8H864.0A3.0 3.0 0 0 1 867.0 352.8V362.0Z" fill="url(#add)"/>
+<path d="M850.8 362.0V363.5A1.5 1.5 0 0 0 852.3 364.9H865.6A1.5 1.5 0 0 0 867.0 363.5V362.0Z" fill="url(#del)"/>
 <text x="858.9" y="500" font-size="13" text-anchor="middle" fill="#e2e8f0" font-weight="600">Nov 6</text>
 <line x1="28" x2="872" y1="522" y2="522" stroke="#1f2937"/>
 <text x="28" y="543" font-size="12" fill="#94a3b8">Commits counted by author date (UTC) · bar height uses a square-root scale so small days stay visible</text>
